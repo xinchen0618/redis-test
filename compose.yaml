@@ -1,6 +1,4 @@
-version: "3.9"
-
-services: 
+services:
   redis:
     image: redis:7.0.3-alpine
     ports:
